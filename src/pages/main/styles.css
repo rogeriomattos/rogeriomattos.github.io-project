@@ -14,7 +14,7 @@
     display: inline-block;
     vertical-align: top;
     height: 100%;
-    width: 33.333%;
+    width: 38%;
     background-image:linear-gradient(#4b21ff,#4820f3);
     position: relative;
 }
@@ -42,7 +42,7 @@
 
 .main .section-2{
     height: 100%;
-    width: 66.666%;
+    width: 62%;
     display: inline-block;
     vertical-align: top;
     position: relative;
@@ -106,3 +106,19 @@
     color: #222;
 }
 
+@media only screen and (max-width: 1400px) {
+    .main .profile{
+        max-height: 400px;
+        top: 40px;
+        left: 40px;
+        transform: translate(0);
+    }
+}
+@media only screen and (max-width: 1000px) {
+    .main .profile{
+        max-height: 300px;
+        top: 40px;
+        left: 40px;
+        transform: translate(0);
+    }
+}
