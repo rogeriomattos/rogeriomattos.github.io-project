@@ -1,0 +1,23 @@
+.home-container{
+    
+}
+
+.home-container .personal-details,
+.home-container .github
+.home-container .medium{
+    padding: 0 24px;
+}
+.home-container .personal-details{
+    width: 100%;
+    height: 600px;
+    background: #000;
+    position: relative;
+}
+
+.home-container .medium{
+    
+}
+
+.home-container .github{
+    
+}

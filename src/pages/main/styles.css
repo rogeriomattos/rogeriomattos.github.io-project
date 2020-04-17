@@ -15,7 +15,7 @@
     vertical-align: top;
     height: 100%;
     width: 38%;
-    background-image:linear-gradient(#4b21ff,#4820f3);
+    background: #000;
     position: relative;
 }
 .main .section-1 .contacts{
